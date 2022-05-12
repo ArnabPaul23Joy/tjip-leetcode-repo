@@ -1,11 +1,6 @@
-#include <list>
-
+#include<bits/stdc++.h>
 class Solution {
 public:
-    /**
-     * @param strings: a string array
-     * @return: return a list of string array
-     */
 
     long long getHash(string &a){
         long long m=1000000000+7;
